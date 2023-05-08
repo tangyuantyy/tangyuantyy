@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F771AAFF&width=435&lines=Hi+!+I'm+Yuanyuan,)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=fcecea&height=300&section=header&text=Hi!+I'm+yuanyuan!&fontSize=90)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F771AAFF&width=435&lines=a+Y2+Computer+Science+student+at+NUS!)](https://git.io/typing-svg)
 
