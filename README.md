@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=fcecea&height=300&section=header&text=Hi!+I'm+yuanyuan!&fontSize=90&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&pause=1000&vCenter=true&color=8f8685&width=435&&lines=a+Y4+Computer+Science+student+at+NUS)](https://git.io/typing-svg)
-
 
 
 ### Connect with me:
